@@ -1,4 +1,4 @@
-![Главная страница](https://imgur.com/a/MOl8fMN)
+![Главная страница](https://i.imgur.com/d7suPVQ.png)
 
 # 🎵 Магазин автозвука
 
