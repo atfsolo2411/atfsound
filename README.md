@@ -20,8 +20,8 @@
 ## 🚀 Быстрый старт
 
 ```bash
-git clone https://github.com/твой-логин/avtozvuk-shop.git
-cd avtozvuk-shop
+git clone https://github.com/atfsolo2411/atfsound.git
+cd atfsound
 npm install
 npm start
 
